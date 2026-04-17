@@ -38,8 +38,6 @@
 * Essas decisões afetam qualidade, desempenho e manutenção. 
 - *"Toda implementação de software reflete escolhas arquiteturais, conscientes ou não."*
 
-Aqui está a Parte 2 das suas anotações, limpa, otimizada e sem redundâncias. Agrupei as informações por categoria para facilitar a revisão dos conceitos estruturais.
-
 ---
 
 ## Estruturas Arquiteturais e Visões
